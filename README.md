@@ -1,6 +1,6 @@
-# zendemic blockchain
+# zendemic 
 
-This is the Github home for zendemic blockchain.
+This is the Github home for zendemic
 
 Zendemic is an application platform intended to provide a set of services more commonly provided by large internet service companies, without requiring the large internet service company.
 
